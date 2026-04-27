@@ -1,120 +1,270 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+# Ephemera — Research & Systems Portfolio
 
-# Jekyll Now
+## Overview
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+This repository network develops a left-over and unused pieces in a unified program spanning physics, computation, cognition, and infrastructure. The central premise is that dynamics, meaning, and identity are not properties of static states but of constraint-preserving transformations across fields, trajectories, and systems.
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+The work proceeds along four tightly coupled axes: theoretical physics, computational architectures, cognitive systems, and applied infrastructure. Each project functions as a module within a larger compositional framework.
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+---
 
-In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
+## Core Theoretical Frameworks
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+### RSVP — Relativistic Scalar–Vector Plenum
+A field-theoretic reconstruction of physics in which the universe is modeled as a coupled system of scalar potential Φ, vector flow **v**, and entropy field S. Expansion is replaced by entropic relaxation and structural smoothing, with gravity emerging as entropy descent.
 
-## Quick Start
+### Simulated Agency
+A theory of consciousness as a sparse projection engine that reconstructs world-states through recursive inference. Agency is treated as a fixed point of constraint satisfaction under partial observability.
 
-### Step 1) Fork Jekyll Now to your User Repository
+### CLIO — Cognitive Loop via In-Situ Optimization
+A recursive inference mechanism embedded within RSVP dynamics. CLIO formalizes how systems iteratively repair and stabilize their own representations under conflicting constraints.
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+### TARTAN — Trajectory-Aware Recursive Tiling with Annotated Noise
+A computational framework for multiscale simulation. It distinguishes local plausibility from global consistency using sheaf-theoretic ideas, treating hallucination as a gluing failure.
 
-Your Jekyll blog will often be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+### Semantic Infrastructure
+A categorical replacement for file-based version control. Systems are modeled as entropy-respecting semantic modules with composition governed by monoidal structure and homotopy colimits.
 
-![Step 1](/images/step1.gif "Step 1")
+### Xylomorphic Computation
+A thermodynamic framework for evaluating infrastructure stability. Systems are classified by whether they regenerate their own substrate (λ < 1), remain critical (λ = 1), or expand unsustainably (λ > 1).
 
-### Step 2) Customize and view your site
+---
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
+## Physics & Mathematics Projects
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <http://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+### Entropic Cosmology (RSVP Program)
+- Non-expanding universe model  
+- Entropic redshift derivations  
+- Gravitational lensing without metric expansion  
+- Cosmic microwave background reinterpretation  
 
-> There are 3 different ways that you can make changes to your blog's files:
+### Amplitwistor Cascades
+- Recursive operator construction from velocity–gradient alignment  
+- Complex amplitude-phase dynamics  
+- Integration with RSVP field equations  
 
-> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
-> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
+### Kernel Operator Dynamics
+- Trajectory-based reformulation of physical law  
+- Memory as a fundamental primitive  
+- Nonlocal and fractional dynamics  
 
-![_config.yml](/images/config.png "_config.yml")
+### Calculus of Residue
+- Transformation leftovers as dynamical invariants  
+- Links to thermodynamics and information theory  
 
-### Step 3) Publish your first blog post
+### Category-Theoretic Formalization
+- Sheaf models of constraint systems  
+- Derived stacks for perceptual ambiguity  
+- Monoidal categories for semantic composition  
 
-Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+---
 
-![First Post](/images/first-post.png "First Post")
+## Computation & AI Systems
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+### RSVP Field Simulator
+- Grid-based simulation of Φ, **v**, and S  
+- Real-time visualization of field dynamics  
+- Metrics for coherence and coupling  
 
-## Local Development
+### TARTAN Simulation Engine
+- Recursive tiling with trajectory memory  
+- Annotated noise as semantic perturbation  
+- Interpretable generative modeling  
 
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+### Persistent Knowledge System (LLM Wiki Model)
+- Replacement for stateless retrieval (RAG)  
+- Incremental knowledge synthesis  
+- Contradiction detection and resolution  
 
-## Moar!
+### Tokenization Critique & Alternatives
+- Analysis of token-based billing systems  
+- Deduplication-aware computation  
+- Compression as inference  
 
-I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+---
 
-It covers:
+## Applied Systems & Infrastructure
 
-- A more detailed walkthrough of setting up your Jekyll blog
-- Common issues that you might encounter while using Jekyll
-- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
-- Theming in Jekyll, with Liquid templating examples
-- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
+### Yarncrawler Framework
+- Slow-moving repair systems  
+- Continuous infrastructure restoration  
+- Distributed maintenance models  
 
-## Jekyll Now Features
+### Dynamic Garbage Collection System
+- Real-time routing based on user signals  
+- Adaptive optimization of collection paths  
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+### Xylomorphic Architecture
+- Cities as living systems  
+- Forest-inspired material and energy cycles  
+- Regenerative urban surfaces  
 
-✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+### Living Roofs Program
+- Roofs as thermodynamic interfaces  
+- Integration of ecological and structural functions  
 
-## Questions?
+---
 
-[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+## Media, Tools, and Experimental Interfaces
 
-## Other forkable themes
+### Audio Pipeline System
+- MP4 → MP3 conversion  
+- Whisper transcription  
+- Subtitle generation and normalization  
 
-You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
+### Audio Visualizer Platform
+- Canvas-based oscilloscope  
+- CRT-style rendering  
+- Subtitle-integrated playback  
 
-- [Hyde](https://github.com/poole/hyde) by MDO
-- [Lanyon](https://github.com/poole/lanyon) by MDO
-- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
-- [Left](https://github.com/holman/left) by Zach Holman
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
-- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
+### YouTube Publishing Simulator (“Cakewalk”)
+- Repository-to-video pipeline  
+- Scheduling via cron  
+- FFmpeg-based visualization  
 
-## Credits
+### Warp Tree Project
+- Interactive image transformation  
+- Swarm, deformation, and reconstruction effects  
 
-- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
-- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
-- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
-- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
-- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
+---
 
-## Contributing
+## Writing & Monographs
 
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+### Major Works
+- *[The Fall of Space](https://flyxion.github.io/flyxion/rsvp/The%20Fall%20of%20Space.pdf): Entropic Relaxation and Structure Without Expansion*  
+- *[Simulated Agency](https://github.com/search?q=owner%3Astandardgalactic+%22simulated+Agency%22&type=code): Consciousness as a Sparse Projection Engine*  
+- *[Xylomorphic Computation](https://github.com/search?q=owner%3Astandardgalactic+%22xylomorphic+computation%22&type=code): Thermodynamic Closure and Infrastructure Stability*  
+- *[From Persuasion to Realization](https://standardgalactic.github.io/TARTAN/persuasion.pdf): Constraint Closure and the Geometry of Inference*  
 
-You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+### Essays & Papers
+- The Con: Advertising as AI’s Original Sin  
+- Recomposable Fragmentation  
+- 
+[Survival is Insufficient](https://standardgalactic.github.io/antivenom/projects/survival-is-insufficient.pdf) — *Analysis of Station Eleven* 
+- The Universe as a Trajectory  
 
-I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+### Book Project
+- *[Lower Vertebrates](https://standardgalactic.github.io/library/processing/lowervertebrates.pdf)* — constraint-first biological synthesis  
+
+---
+
+## Philosophy & Epistemology
+
+### Model-Free Methods (inspired by Monica Anderson)
+- Intuition as structured inference  
+- Knowledge as conversational synthesis  
+- Distributed cognition models  
+
+### Constraint-Based Ontology
+- Information as reduction of possibility  
+- Identity as a dynamical fixed point  
+- Truth as global consistency  
+
+---
+
+## Current Directions
+
+The active trajectory of this work is toward a unified system in which physics, cognition, computation, and infrastructure are treated as a single compositional domain governed by constraint dynamics and entropy flow.
+
+
+# Alignment Research (otherwise uncategorized)
+
+[The Commodification of Categories](https://standardgalactic.github.io/antivenom/The%20Commodification%20of%20Categories.pdf)
+
+[The Age of Artificial Coordination](https://standardgalactic.github.io/antivenom/Artificial%20Coordination.pdf)
+
+[The Hostile Interface](https://standardgalactic.github.io/antivenom/The%20Hostile%20Interface.pdf)
+
+[Dark Patterns](https://standardgalactic.github.io/antivenom/Dark%20Patterns.pdf)
+
+[Monetizing Uncertainty](https://standardgalactic.github.io/antivenom/Monetizing%20Uncertainty.pdf)
+
+[When Engagement Stops Pointing](https://standardgalactic.github.io/antivenom/When%20Engagement%20Stops%20Pointing.pdf)
+
+[Aspirational Exhaust](https://standardgalactic.github.io/antivenom/Aspirational%20Exhaust.pdf)
+
+[Induced Homogeneity](https://standardgalactic.github.io/antivenom/Induced%20Homogeneity.pdf)
+
+[Gallery Before Feed](https://standardgalactic.github.io/research-projects/Gallery%20Before%20Feed.pdf)
+
+[Identity Collapse and the Platforming of Fraud](https://standardgalactic.github.io/Identity%20Collapse.pdf)
+
+[Yarncrawler in Action](https://standardgalactic.github.io/yarncrawler/Yarncrawler%20in%20Action.pdf)
+
+# Polyxan and Plenumhub
+
+[Manufacturing Stability](https://standardgalactic.github.io/library/Manufacturing%20Stability.pdf)
+
+* [Audio Overview](https://standardgalactic.github.io/library/projects/?track=geometry)
+
+[The Narrow Path Between Domination and Chaos](https://standardgalactic.github.io/research-projects/The%20Narrow%20Path.pdf)
+
+[Coherence Before Engagement](https://standardgalactic.github.io/alphabet/Coherence%20Before%20Engagement.pdf)
+
+[Semantic Hyperstructures](https://standardgalactic.github.io/research-projects/Polyxan%20Semantic%20Hyperinfrastructure.pdf)
+
+[Verification and Proof Manual](https://standardgalactic.github.io/research-projects/Polyxan%20Proof%20Specification.pdf)
+
+[Starspace Specification](https://standardgalactic.github.io/research-projects/Polyxan%20Starspace%20Specification.pdf) 
+
+
+[From Field Dynamics to Extractive Systems](https://standardgalactic.github.io/standardgalactic/field_dynamics.pdf)
+
+* [The Physics of Toxic Digital Platforms](https://standardgalactic.github.io/standardgalactic/research/) — *Audio Overview*
+
+[Constraint Closure and Its Failures](https://standardgalactic.github.io/library/research/constraint-closure.pdf)
+
+* [Why AI Code and Essays Fail](https://standardgalactic.github.io/library/research/) – *Audio Overview*
+
+# Obfuscated Code
+
+## Geodesics of Attention
+
+* [Standard Galactic](https://standardgalactic.github.io/alphabet/geodesics_of_attention_v3_sga.pdf)
+* [Cursive Galactic](https://standardgalactic.github.io/alphabet/geodesics_of_attention_v3_cursive.pdf)
+* [Nova Mono](https://standardgalactic.github.io/alphabet/geodesics_of_attention_v3_nova.pdf)
+
+# Do Not Read!! 
+[Ecphoric Synthesis](https://standardgalactic.github.io/kitbash/Ecphoric%20Synthesis.pdf)
+
+[Autogenerative Dynamics](https://standardgalactic.github.io/autogenerative-dynamics/)
+
+[Structure Proceeds Symbol](https://standardgalactic.github.io/spherepop/Structure%20Proceeds%20Symbol.pdf)
+
+[Zero-Day Exploits](https://standardgalactic.github.io/paracosm/source-control.html)
+
+[Trust Apocalypse](https://galactromeda.com/rsvp/Trust%20Apocalypse.pdf)
+
+[Ultrabionic Reading](https://standardgalactic.github.io/ultrabionic-reading.html)
+
+*[The Limits of Logic](https://github.com/standardgalactic/kitbash/tree/main/research)*
+
+*[Hypoception](https://standardgalactic.github.io/random-thoughts/hypoception-overview.txt)* — Hypothesis-based perception
+
+*[Vectorial Code](https://standardgalactic.github.io/random-thoughts/vectorial-code-overview.txt)*
+
+[Ovo de Páscoa especial para grupos de estudo brasileiros](https://standardgalactic.github.io/animal-social/)
+
+
+
+# Tools and Utilities
+
+[Baby Barn Cost Estimator](https://standardgalactic.github.io/estimator/) — *Needs Work*
+
+[Latin Flashcards](https://standardgalactic.github.io/flashcards.html) -->
+
+# *My Wikipedia*
+
+[Sandbox](https://en.wikipedia.org/wiki/User:Mechachleopteryx/sandbox)
+
+[Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Mechachleopteryx)
+
+I am following 200,000 pages on Wikipedia
+
+[My Watchlist](https://github.com/standardgalactic/haplopraxis/blob/primary/Wikipedia-watchlist.txt)
+
+* If you would like to do the same, you can cut-and-paste it [here](https://en.wikipedia.org/wiki/Special:EditWatchlist/raw).
+
+## Contact
+
+GitHub: https://github.com/standardgalactic/ephemera
