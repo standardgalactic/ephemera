@@ -149,8 +149,7 @@ A thermodynamic framework for evaluating infrastructure stability. Systems are c
 ### Essays & Papers
 - The Con: Advertising as AI’s Original Sin  
 - Recomposable Fragmentation  
-
-[Survival is Insufficient](https://standardgalactic.github.io/antivenom/projects/survival-is-insufficient.pdf) — *Analysis of Station Eleven* 
+- [Survival is Insufficient](https://standardgalactic.github.io/antivenom/projects/survival-is-insufficient.pdf) — *Analysis of Station Eleven*
 - The Universe as a Trajectory  
 
 ### Book Project
