@@ -1,5 +1,15 @@
 # Ephemera — Research & Systems Portfolio
 
+## Aurora
+
+[Biodiversity as Infrastructure](https://standardgalactic.github.io/research-projects//Aurora/biodiversity-as-infrastructure.pdf) 
+
+[Gesture Before Symbol](https://standardgalactic.github.io/research-projects//Aurora/gesture-before-symbol.pdf) 
+
+[Obstruction Cohomology](https://standardgalactic.github.io/research-projects//Aurora/obstruction-cohomology.pdf)
+
+[Recomposable Fragmentation](https://standardgalactic.github.io/research-projects//Aurora/recomposable-fragmentation.pdf) 
+
 ## Overview
 
 This repository network develops a left-over and unused pieces in a unified program spanning physics, computation, cognition, and infrastructure. The central premise is that dynamics, meaning, and identity are not properties of static states but of constraint-preserving transformations across fields, trajectories, and systems.
@@ -251,7 +261,7 @@ The active trajectory of this work is toward a unified system in which physics, 
 
 [Baby Barn Cost Estimator](https://standardgalactic.github.io/estimator/) — *Needs Work*
 
-[Latin Flashcards](https://standardgalactic.github.io/flashcards.html) -->
+[Latin Flashcards](https://standardgalactic.github.io/flashcards.html)
 
 # *My Wikipedia*
 
