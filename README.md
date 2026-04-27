@@ -12,7 +12,7 @@
 
 ## Overview
 
-This repository network develops a left-over and unused pieces in a unified program spanning physics, computation, cognition, and infrastructure. The central premise is that dynamics, meaning, and identity are not properties of static states but of constraint-preserving transformations across fields, trajectories, and systems.
+This repository contains a bunch of left-over pieces from developing  a unified program spanning physics, computation, cognition, and infrastructure. The central premise is that dynamics, meaning, and identity are not properties of static states but of constraint-preserving transformations across fields, trajectories, and systems.
 
 The work proceeds along four tightly coupled axes: theoretical physics, computational architectures, cognitive systems, and applied infrastructure. Each project functions as a module within a larger compositional framework.
 
