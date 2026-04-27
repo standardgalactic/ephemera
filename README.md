@@ -144,7 +144,7 @@ A thermodynamic framework for evaluating infrastructure stability. Systems are c
 - The Universe as a Trajectory  
 
 ### Book Project
-- *[Lower Vertebrates](https://standardgalactic.github.io/library/processing/lowervertebrates.pdf)* — constraint-first biological synthesis  
+- *[Lower Vertebrates](https://standardgalactic.github.io/library/processing/lower-vertebrates.pdf)* — constraint-first biological synthesis  
 
 ---
 
