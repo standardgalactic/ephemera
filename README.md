@@ -254,8 +254,6 @@ The active trajectory of this work is toward a unified system in which physics, 
 
 [Ovo de Páscoa especial para grupos de estudo brasileiros](https://standardgalactic.github.io/animal-social/)
 
-
-
 # Tools and Utilities
 
 [Baby Barn Cost Estimator](https://standardgalactic.github.io/estimator/) — *Needs Work*
